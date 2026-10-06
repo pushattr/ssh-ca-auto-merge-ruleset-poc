@@ -1,0 +1,3 @@
+benign head
+control writer push
+exploit payload
