@@ -1,0 +1,2 @@
+harmless initial head
+attacker replacement after auto-merge was enabled
