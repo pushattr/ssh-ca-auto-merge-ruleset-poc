@@ -1,1 +1,1 @@
-Harmless content awaiting the required CI result.
+Attacker-controlled replacement introduced after auto-merge was enabled.
