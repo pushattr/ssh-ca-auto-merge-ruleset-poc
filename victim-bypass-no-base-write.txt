@@ -1,1 +1,2 @@
 harmless initial head
+malicious replacement from attacker without base write
